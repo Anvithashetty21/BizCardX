@@ -42,10 +42,3 @@ Check out the live demo of BizCardX on LinkedIn:
 
 
 
-## 🛠 Setup & Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Anvithashetty21/BizCardX.git
-   cd BizCardX
-
